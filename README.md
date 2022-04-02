@@ -21,6 +21,6 @@ This is the original code so the api calls will still be executed even tho curre
 [Login Rank](https://github.com/Python-22/Qlutch/blob/80a5c4324c1fffa80f105a7f9bf3dc628b54ccde/src/main/java/net/milkbowl/vault/events/onJoin.java#L46)  
 [Login Rank 2](https://github.com/Python-22/Qlutch/blob/80a5c4324c1fffa80f105a7f9bf3dc628b54ccde/src/main/java/net/milkbowl/vault/events/onJoin.java#L76)  
 
-Might have missed some but those are the essentials.
+Might have missed some but those are the essentials.  
 
-
+### Join my [discord](https://discord.gg/4Sy9kjHkEr) 
