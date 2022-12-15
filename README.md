@@ -23,4 +23,4 @@ This is the original code so the api calls will still be executed even tho curre
 
 Might have missed some but those are the essentials.  
 
-### Join my [discord](https://discord.gg/4Sy9kjHkEr) 
+### Join my [discord](https://discord.gg/8BxWxvb57t) 
